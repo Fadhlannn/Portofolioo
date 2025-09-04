@@ -16,7 +16,7 @@ export function Header() {
         {/* Nama + Role */}
         <div>
           <Link href="/" className="font-medium text-black dark:text-white">
-            Fadhlan Ahmad Radistyaaaa
+            Fadhlan Ahmad Radistya
           </Link>
           <TextEffect
             as="p"
