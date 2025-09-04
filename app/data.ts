@@ -35,14 +35,14 @@ export const CERTIFICATES: Certificate[] = [
     name: "Intro to Data Analytics",
     issuer: "RevoU",
     date: "1/3/2024",
-    image: "images/fadhlan-ahmad-radistya-certificate-completion-damc (1)_page-0001.jpg",
+    image: "Images/fadhlan-ahmad-radistya-certificate-completion-damc (1)_page-0001.jpg",
     id: "cert1",
   },
   {
     name: "SQL and Relational Databases 101",
     issuer: "cognitiveclass.ai / IBM Developer Skills Network.",
     date: "14/5/24",
-    image: "images/IBM DB0101EN Certificate _ Cognitive Class_page-0001.jpg",
+    image: "Images/IBM DB0101EN Certificate _ Cognitive Class_page-0001.jpg",
     id: "cert2",
   },
   {
@@ -76,7 +76,7 @@ export const PROJECTS: Project[] = [
     description: 'create a database design project with the title totopedia. This project normalizes data from unf to 5nf.',
     link: 'https://github.com/Fadhlannn/DatabaseDesign-Clotopedia',
     image:
-      'images/Galeri 3 Gambar (2).png',
+      'Images/Galeri 3 Gambar (2).png',
     id: 'project2',
   },
   {
@@ -84,7 +84,7 @@ export const PROJECTS: Project[] = [
     description: 'The development of artificial intelligence technology has presented a new approach to image processing, especially through the use of neural network algorithms such as Long-Short Term Memory (LSTM), Convolutional Neural Network (CNN), and Recurrent Neural Network (RNN). The third model opens up opportunities to recognize patterns in images, allowing for more contextual and accurate descriptions.',
     link: 'https://github.com/Fadhlannn/image-processing',
     image:
-      'images/Galeri 3 Gambar (3).png',
+      'Images/Galeri 3 Gambar (3).png',
     id: 'project3',
   },
   { 
@@ -92,7 +92,7 @@ export const PROJECTS: Project[] = [
     description: 'I developed a Warehouse Stock Management Application from the ground up for PT Primajasa PerdanaRaya Utama, starting with the database design and continuing through the implementation of key features such as role-based user access, real-time stock updates, and transaction management. To ensure accurate inventory tracking, I applied the FIFO (First In, First Out) algorithm so that the oldest items are prioritized for distribution, resulting in improved efficiency, accuracy, and streamlined warehouse operations.',
     link: '',
     image:
-      'images/Galeri 3 Gambar (4).png',
+      'Images/Galeri 3 Gambar (4).png',
     id: 'project4',
   }
 ]
