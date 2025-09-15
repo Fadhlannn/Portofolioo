@@ -108,7 +108,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
   {
     company: 'Kementrian ESDM - Badan Geologi',
-    title: 'Database Specialist',
+    title: 'Application Developer',
     start: '1 September',
     link: 'Images/image.png',
     end: 'present',
