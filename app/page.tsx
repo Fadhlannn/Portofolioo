@@ -271,7 +271,9 @@ export default function Personal() {
       "Data Engineering",
       "Data Analytics",
       "MySQL",
+      "R",
       "Laravel",
+      "javascript"
     ].map((skill) => (
       <span
         key={skill}

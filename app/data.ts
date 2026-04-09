@@ -111,7 +111,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Application Developer',
     start: '1 September',
     link: 'Images/image.png',
-    end: 'present',
+    end: '1 February 2026' ,
     id: 'work2',
   },
 ]
