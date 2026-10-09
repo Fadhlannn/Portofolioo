@@ -8,7 +8,7 @@ export function Header() {
       <div className="flex items-center gap-4">
         {/* Gambar */}
         <img
-          src="Images/DSC01427.jpg"
+          src="Images/foto_serius.jpg"
           alt="Profile"
           className="w-20 h-20 rounded-full object-cover"
         />
